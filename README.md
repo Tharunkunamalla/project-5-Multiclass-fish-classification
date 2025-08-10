@@ -5,7 +5,8 @@ This project is a **Fish Species Classification** system that uses **Deep Learni
 
 ## 📌 Project Overview
 The goal of this project is to accurately classify fish species from given images using different **Convolutional Neural Networks (CNNs)** and **Transfer Learning** architectures.
-📁 Project Structure
+
+# 📁 Project Structure
 ```
 ├── data/                          # Dataset (download from Google Drive)
 │   ├── train/
@@ -23,8 +24,8 @@ The goal of this project is to accurately classify fish species from given image
 ├── README.md
 └── requirements.txt
 ```
-
-## 📂 Dataset
+**Dataset** : https://drive.google.com/drive/folders/1iKdOs4slf3XvNWkeSfsszhPRggfJ2qEd
+## 📂 Dataset : 
 The dataset contains images of different fish species, including:
 - Gilt-head bream
 - Horse mackerel
