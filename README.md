@@ -95,8 +95,8 @@ The models were trained for multiple epochs and evaluated on a validation set. T
 | CNN (Custom)  | ~85%     |
 | VGG16         | ~92%     |
 | ResNet50      | ~94%     |
-| MobileNetV2   | ~91%     |
+| MobileNetV2   | ~95%     |
 | InceptionV3   | ~93%     |
-| EfficientNetB0| ~95%     |
+| EfficientNetB0| ~91%     |
 
 # Streamlit-app-link: 
